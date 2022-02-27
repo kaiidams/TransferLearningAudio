@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="2.0.0-dev.22126.1" />
-    <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="2.0.0-dev.22126.1" />
+    <PackageReference Include="Microsoft.ML" Version="1.7.0" />
+    <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="1.7.0" />
   </ItemGroup>
 
 </Project>
